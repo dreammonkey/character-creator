@@ -6,3 +6,9 @@
   text-align: center;
 }
 
+.footer a {
+  color: white;
+}
+.footer a:hover {
+  color: rgb(132, 132, 132);
+}
